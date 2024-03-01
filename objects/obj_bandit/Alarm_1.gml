@@ -1,0 +1,1 @@
+state = enemyState.deactivated;
