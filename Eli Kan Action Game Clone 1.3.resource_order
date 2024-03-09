@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":12,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
@@ -15,7 +15,7 @@
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"spr_bandit_idle","order":3,"path":"sprites/spr_bandit_idle/spr_bandit_idle.yy",},
     {"name":"obj_camera","order":8,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"spr_bullet_fish_vfx","order":13,"path":"sprites/spr_bullet_fish_vfx/spr_bullet_fish_vfx.yy",},
